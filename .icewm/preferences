@@ -1,6 +1,6 @@
 #TouchPad
 xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
-xinput set-prop "Touchpad Name" "libinput Natural Scrolling Enabled" 1
+xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Natural Scrolling Enabled" 1
 
 #Wallpaper
 DesktopBackgroundImage="/home/columbina/Wallpapers/wallhaven-gwwywd.jpg"
