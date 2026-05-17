@@ -5,7 +5,7 @@ Look="retro"
 TitleButtonsLeft="s"
 TitleButtonsRight="xmi"
 TitleButtonsSupported="xmis"
-TitleBarHeight=17
+TitleBarHeight=18
 TitleBarJoinRight=1
 
 BorderSizeX=4
