@@ -1,11 +1,11 @@
 ThemeDescription="You still there?"
-ThemeAuthor=keico-o
-Look="retro"
+ThemeAuthor="keico-o"
+Look="flat"
 
 TitleButtonsLeft="s"
 TitleButtonsRight="xmi"
 TitleButtonsSupported="xmis"
-TitleBarHeight=18
+TitleBarHeight=17
 TitleBarJoinRight=1
 
 BorderSizeX=4
