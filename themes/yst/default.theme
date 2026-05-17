@@ -7,6 +7,9 @@ TitleButtonsRight="xmi"
 TitleButtonsSupported="xmis"
 TitleBarHeight=17
 TitleBarJoinRight=1
+TitleBarVertOffset=0
+ShowMenuButtonIcon=0
+RolloverButtonsSupported=1
 
 BorderSizeX=4
 BorderSizeY=4
