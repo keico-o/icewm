@@ -4,6 +4,7 @@ Look="retro"
 
 TitleButtonsLeft="s"
 TitleButtonsRight="xmi"
+TitleButtonsSupported="xmis"
 TitleBarCentered=1
 TitleBarHeight=17
 BorderSizeX=4
