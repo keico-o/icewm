@@ -4,7 +4,10 @@ Look="retro"
 
 TitleButtonsLeft="s"
 TitleButtonsRight="xmi"
+TitleButtonsSupported="xmis"
 TitleBarHeight=17
+TitleBarJoinRight=1
+
 BorderSizeX=4
 BorderSizeY=4
 CornerSizeX=24
@@ -28,14 +31,19 @@ ColorDisabledMenuItemText="#966A8E"
 ColorMoveSizeStatus="#000000"
 ColorMoveSizeStatusText="#FFFFFF"
 
-ActiveButtonFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
-NormalButtonFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
-ClockFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
-QuickSwitchFontName="-b&h-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
-ListBoxFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
-MenuFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
-StatusFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
-TitleFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
-ToolTipFontName="-b&h-lucida-medium-r-*-*-11-*-*-*-*-*-*-*"
+TitleFontNameXft	         = 	  "Tahoma8pt:size=8:bold"
+MenuFontNameXft	         =    "Tahoma8pt:size=8"
+MinimizedWindowFontNameXft =    "Tahoma8pt:size=8"
+ActiveButtonFontNameXft    =    "Tahoma8pt:size=8"
+NormalButtonFontNameXft    =    "Tahoma8pt:size=8"
+QuickSwitchFontNameXft     =    "Tahoma8pt:size=8"
+ListBoxFontNameXft         =    "Tahoma8pt:size=8"
+StatusFontNameXft          =    "Tahoma8pt:size=8"
+ToolTipFontNameXft         =    "Tahoma8pt:size=8"
+ActiveTaskBarFontNameXft   =    "Tahoma8pt:size=8:bold"
+NormalTaskBarFontNameXft   =    "Tahoma8pt:size=8"
+ClockFontNameXft           =    "Tahoma8pt:size=8"
+ApmFontNameXft             =    "Tahoma8pt:size=8"
+LabelFontNameXft           =    "Tahoma8pt:size=8"
 
-ShowMenuButtonIcon=0
+ShowMenuButtonIcon=1
