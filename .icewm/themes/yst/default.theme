@@ -4,8 +4,8 @@
 # sourced from the Chicago95 theme (https://github.com/grassmunk/Chicago95)
 # The Tux Start button was sourced from screenshots of FVWM95.
 
-ThemeDescription="Windows 95"
-ThemeAuthor=bongo
+ThemeDescription="You still there?"
+ThemeAuthor=keico-o
 Look="flat"
 
 DesktopBackgroundColor="rgb:00/80/80"
