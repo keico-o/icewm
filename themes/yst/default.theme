@@ -8,6 +8,7 @@ TitleButtonsSupported="xmis"
 TitleBarHeight=17
 TitleBarJoinRight=1
 RolloverButtonsSupported=1
+MenuIconSize=13
 
 BorderSizeX=4
 BorderSizeY=4
