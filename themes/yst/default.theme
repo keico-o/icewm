@@ -4,15 +4,13 @@ Look="retro"
 
 TitleButtonsLeft="s"
 TitleButtonsRight="xmi"
-TitleButtonsSupported="xmis"
-TitleBarCentered=1
 TitleBarHeight=17
 BorderSizeX=4
 BorderSizeY=4
 CornerSizeX=24
 CornerSizeY=24
-DlgBorderSizeX=4
-DlgBorderSizeY=4
+DlgBorderSizeX=3
+DlgBorderSizeY=3
 
 ColorNormalButton="#D9CFD0"
 ColorNormalButtonText="#4D0F50"
