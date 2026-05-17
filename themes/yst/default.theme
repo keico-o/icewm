@@ -45,5 +45,3 @@ NormalTaskBarFontNameXft   =    "Tahoma8pt:size=8"
 ClockFontNameXft           =    "Tahoma8pt:size=8"
 ApmFontNameXft             =    "Tahoma8pt:size=8"
 LabelFontNameXft           =    "Tahoma8pt:size=8"
-
-ShowMenuButtonIcon=1
