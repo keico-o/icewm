@@ -7,7 +7,7 @@ TitleButtonsRight="xmi"
 TitleButtonsSupported="xmis"
 TitleBarHeight=17
 TitleBarJoinRight=1
-MenuButtonIconVertOffset=17
+RolloverButtonsSupported=1
 
 BorderSizeX=4
 BorderSizeY=4
@@ -22,6 +22,8 @@ ColorActiveButton="#D9CFD0"
 ColorActiveButtonText="#4D0F50"
 ColorNormalTitleBarText="#966A8E"
 ColorActiveTitleBarText="#4D0F50"
+
+
 
 ColorNormalMenu="#D9CFD0"
 ColorActiveMenuItem="#FE92A1"
