@@ -13,8 +13,8 @@ BorderSizeX=4
 BorderSizeY=4
 CornerSizeX=24
 CornerSizeY=24
-DlgBorderSizeX=3
-DlgBorderSizeY=3
+DlgBorderSizeX=2
+DlgBorderSizeY=2
 
 ColorNormalButton="#D9CFD0"
 ColorNormalButtonText="#4D0F50"
